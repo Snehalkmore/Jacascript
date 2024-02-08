@@ -21,3 +21,6 @@ console.log(40 + 8 + 23 - 7);
 6. for constants like PI use all letter of variable name in upper case.
 
 7. variable names should be descriptive.
+
+
+### let is having block scope
